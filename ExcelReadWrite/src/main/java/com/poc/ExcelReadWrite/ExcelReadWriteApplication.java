@@ -1,0 +1,14 @@
+package com.poc.ExcelReadWrite;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+
+@SpringBootApplication
+public class ExcelReadWriteApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(ExcelReadWriteApplication.class, args);
+	}
+
+}
